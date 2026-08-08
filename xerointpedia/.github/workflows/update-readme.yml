@@ -3,8 +3,7 @@ name: Auto Update README Gallery
 on:
   push:
     paths:
-      - 'gambar/**' # Ganti 'gambar' dengan nama folder fotomu
-
+      - '**' 
 jobs:
   build:
     runs-on: ubuntu-latest
