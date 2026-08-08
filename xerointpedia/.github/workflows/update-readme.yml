@@ -1,0 +1,37 @@
+name: Auto Update README Gallery
+
+on:
+  push:
+    paths:
+      - 'gambar/**' # Ganti 'gambar' dengan nama folder fotomu
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Generate README
+        run: |
+          python -c "
+          import os
+          folder = 'gambar' # Ganti nama folder jika berbeda
+          valid = ('.png', '.jpg', '.jpeg', '.gif', '.webp')
+          images = sorted([f for f in os.listdir(folder) if f.lower().endswith(valid)])
+          with open('README.md', 'w') as f:
+              f.write('# Galeri Foto\n\n')
+              for img in images:
+                  f.write(f'![{img}]({folder}/{img})\n\n')
+          "
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || (git commit -m "auto update gallery in README" && git push)
