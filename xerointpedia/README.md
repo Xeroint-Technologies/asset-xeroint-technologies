@@ -14,5 +14,3 @@
 
 ![logo-removebg-preview.png](logo-removebg-preview.png)
 
-![popup.jpeg](popup.jpeg)
-
