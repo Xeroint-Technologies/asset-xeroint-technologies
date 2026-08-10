@@ -1,1 +1,3 @@
 https://cdn.takapedia.com/product/Mobile%20Legends.png
+
+grid grid-cols-2 gap-4 md:grid-cols-3 
