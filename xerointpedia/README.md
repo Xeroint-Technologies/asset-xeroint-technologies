@@ -18,7 +18,5 @@
 
 ![banner.png](banner.png)
 
-![joki kategori.png](joki%20kategori.png)
-
 ![logo-removebg-preview.png](logo-removebg-preview.png)
 
