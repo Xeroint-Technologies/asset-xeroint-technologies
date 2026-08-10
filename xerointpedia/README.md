@@ -16,9 +16,5 @@
 
 ![banner.png](banner.png)
 
-![bg-footer-30229947.webp.webp](bg-footer-30229947.webp.webp)
-
-![footer jadi.png](footer%20jadi.png)
-
 ![logo-removebg-preview.png](logo-removebg-preview.png)
 
