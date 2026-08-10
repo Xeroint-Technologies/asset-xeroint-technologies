@@ -20,7 +20,5 @@
 
 ![footer jadi.png](footer%20jadi.png)
 
-![footert last.png](footert%20last.png)
-
 ![logo-removebg-preview.png](logo-removebg-preview.png)
 
