@@ -32,7 +32,5 @@
 
 ![logo-removebg-preview.png](logo-removebg-preview.png)
 
-![populer new 1.jpeg](populer%20new%201.jpeg)
-
 ![pupuper new genmdong.png](pupuper%20new%20genmdong.png)
 
