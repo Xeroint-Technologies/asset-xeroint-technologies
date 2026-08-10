@@ -26,6 +26,10 @@
 
 ![banner.png](banner.png)
 
+![epc glowri new.jpeg](epc%20glowri%20new.jpeg)
+
+![harit new.jpeg](harit%20new.jpeg)
+
 ![logo-removebg-preview.png](logo-removebg-preview.png)
 
 ![pupuper new genmdong.png](pupuper%20new%20genmdong.png)
