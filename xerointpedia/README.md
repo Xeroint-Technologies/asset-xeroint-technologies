@@ -12,5 +12,7 @@
 
 ![banner.png](banner.png)
 
+![bg-footer-30229947.webp.webp](bg-footer-30229947.webp.webp)
+
 ![logo-removebg-preview.png](logo-removebg-preview.png)
 
