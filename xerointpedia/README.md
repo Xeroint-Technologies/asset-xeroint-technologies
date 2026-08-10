@@ -1,5 +1,7 @@
 # Galeri Foto
 
+![ChatGPT Image Aug 10, 2026, 06_35_01 PM.png](ChatGPT%20Image%20Aug%2010,%202026,%2006_35_01%20PM.png)
+
 ![ChatGPT Image Aug 7, 2026, 09_40_36 PM.png](ChatGPT%20Image%20Aug%207,%202026,%2009_40_36%20PM.png)
 
 ![FINAL_FOOTER-removebg-preview.png](FINAL_FOOTER-removebg-preview.png)
