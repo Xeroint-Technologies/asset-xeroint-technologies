@@ -4,6 +4,8 @@
 
 ![FINAL_FOOTER-removebg-preview.png](FINAL_FOOTER-removebg-preview.png)
 
+![Gendong kategory.png](Gendong%20kategory.png)
+
 ![IMG-20260807-WA0008.jpg](IMG-20260807-WA0008.jpg)
 
 ![JOKI FINAL KATEGORY.png](JOKI%20FINAL%20KATEGORY.png)
